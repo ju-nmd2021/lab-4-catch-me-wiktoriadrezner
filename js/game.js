@@ -62,7 +62,7 @@ function resultScreen() {
     textAlign(CENTER);
     fill(0, 0, 0);
     noStroke();
-    text("You won!", 0, 100, width, 100);
+    text("You caught all the pigs!", 0, 200, width, 100);
 
     replayButton.display();
 }
